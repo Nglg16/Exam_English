@@ -1,0 +1,534 @@
+{
+  "accounts": [
+    {
+      "id": "1",
+      "Email": "ngo@gmail.com",
+      "Name": "luongdz",
+      "Password": "ha"
+    },
+    {
+      "id": "2",
+      "Email": "admin@gmail.com",
+      "Name": "admin",
+      "Password": "admin1"
+    },
+    {
+      "id": "3",
+      "Email": "example@gmail.com",
+      "Name": "example",
+      "Password": "example9"
+    },
+    {
+      "id": "a8de",
+      "Email": "man@gmail.com",
+      "Name": "ngo",
+      "Password": "luongdo"
+    },
+    {
+      "id": "c71f",
+      "Email": "dz@gmail.com",
+      "Name": "007",
+      "Password": "007"
+    }
+  ],
+  "quiz": [
+    {
+      "quizTitle": "Quiz1: Nouns",
+      "category": "Noun",
+      "Description": "A quiz to test your knowledge of nouns.",
+      "images": "images/anh.jpg",
+      "questions": [
+        {
+          "id": "1",
+          "Question": "Which of the following is a noun?",
+          "A": "Saded haha",
+          "B": "Happyed",
+          "C": "Apple",
+          "D": "Quickly",
+          "CorrectAnswer": "C"
+        },
+        {
+          "id": "2",
+          "Question": "Which of the following is a noun?",
+          "A": "Swim",
+          "B": "Blue",
+          "C": "Table",
+          "D": "Quickly",
+          "CorrectAnswer": "C"
+        },
+        {
+          "id": "3",
+          "Question": "What is an example of a common noun?",
+          "A": "Dog",
+          "B": "John",
+          "C": "London",
+          "D": "Tuesday",
+          "CorrectAnswer": "A"
+        },
+        {
+          "id": "q1718951967904_4",
+          "Question": "fdgs",
+          "A": "dsgds",
+          "B": "dsfsd",
+          "C": "fdsds",
+          "D": "dfsds",
+          "CorrectAnswer": "C"
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "quizTitle": "Quiz2: Verbs",
+      "category": "Verb",
+      "Description": "A quiz to test your knowledge of verbs.",
+      "images": "images/anh.jpg",
+      "questions": [
+        {
+          "id": "4",
+          "Question": "Which of the following is a verb?",
+          "A": "Cat",
+          "B": "Run",
+          "C": "Green",
+          "D": "Beautiful",
+          "CorrectAnswer": "B"
+        },
+        {
+          "id": "5",
+          "Question": "Which of the following is a verb?",
+          "A": "Happy",
+          "B": "Jump",
+          "C": "Green",
+          "D": "Desk",
+          "CorrectAnswer": "B"
+        },
+        {
+          "id": "6",
+          "Question": "Which sentence contains a verb?",
+          "A": "The cat sleeps.",
+          "B": "The green apple.",
+          "C": "The happy dog.",
+          "D": "The table.",
+          "CorrectAnswer": "A"
+        }
+      ]
+    },
+    {
+      "quizTitle": "Quiz3: Adjectives",
+      "category": "Adjective",
+      "Description": "A quiz to test your knowledge of adjectives. kaka",
+      "images": "images/anh.jpg",
+      "questions": [
+        {
+          "id": "q1718952300314_1",
+          "Question": "haha",
+          "A": "dfgfd",
+          "B": "fdgfd",
+          "C": "fdgfd",
+          "D": "fdgfdg",
+          "CorrectAnswer": "A"
+        }
+      ],
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "quizTitle": "Quiz4: Adverbs",
+      "category": "Adverb",
+      "Description": "A quiz to test your knowledge of adverbs.",
+      "images": "images/anh.jpg",
+      "questions": [
+        {
+          "id": "10",
+          "Question": "Which of the following is an adverb?",
+          "A": "Book",
+          "B": "Write",
+          "C": "Carefully",
+          "D": "Soft",
+          "CorrectAnswer": "C"
+        },
+        {
+          "id": "11",
+          "Question": "Which of the following is an adverb?",
+          "A": "Table",
+          "B": "Slowly",
+          "C": "Chair",
+          "D": "Happy",
+          "CorrectAnswer": "B"
+        },
+        {
+          "id": "12",
+          "Question": "Identify the adverb in the sentence: 'She sings beautifully.'",
+          "A": "Sings",
+          "B": "She",
+          "C": "Beautifully",
+          "D": "None",
+          "CorrectAnswer": "C"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "quizTitle": "Quiz5: Pronouns",
+      "category": "Pronoun",
+      "Description": "A quiz to test your knowledge of pronouns.",
+      "images": "images/anh.jpg",
+      "questions": [
+        {
+          "id": "13",
+          "Question": "Which of the following is a pronoun?",
+          "A": "He",
+          "B": "Jump",
+          "C": "Table",
+          "D": "Fast",
+          "CorrectAnswer": "A"
+        },
+        {
+          "id": "14",
+          "Question": "Which of the following is a pronoun?",
+          "A": "It",
+          "B": "Run",
+          "C": "Quick",
+          "D": "Big",
+          "CorrectAnswer": "A"
+        },
+        {
+          "id": "15",
+          "Question": "Identify the pronoun in the sentence: 'They are going to the park.'",
+          "A": "Park",
+          "B": "They",
+          "C": "Going",
+          "D": "To",
+          "CorrectAnswer": "B"
+        }
+      ]
+    },
+    {
+      "quizTitle": "Quiz6: More Nouns",
+      "category": "Noun",
+      "Description": "A quiz to test your knowledge of more nouns.",
+      "images": "images/anh.jpg",
+      "questions": [
+        {
+          "id": "16",
+          "Question": "Which of the following is a noun?",
+          "A": "Apple",
+          "B": "Run",
+          "C": "Happy",
+          "D": "Quickly",
+          "CorrectAnswer": "B"
+        },
+        {
+          "id": "17",
+          "Question": "Identify the noun in the sentence: 'The dog barks loudly.'",
+          "A": "Barks",
+          "B": "Loudly",
+          "C": "Dog",
+          "D": "The",
+          "CorrectAnswer": "D"
+        }
+      ],
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "quizTitle": "Quiz7: More Verbs",
+      "category": "Verb",
+      "Description": "A quiz to test your knowledge of more verbs.",
+      "images": "images/anh.jpg",
+      "questions": [
+        {
+          "id": "18",
+          "Question": "Which of the following is a verb?",
+          "A": "Table",
+          "B": "Eat",
+          "C": "Green",
+          "D": "Beautiful",
+          "CorrectAnswer": "B"
+        },
+        {
+          "id": "19",
+          "Question": "Identify the verb in the sentence: 'She quickly runs to the store.'",
+          "A": "Quickly",
+          "B": "She",
+          "C": "Store",
+          "D": "Runs",
+          "CorrectAnswer": "D"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "quizTitle": "Quiz8: More Adjectives",
+      "category": "Adjective",
+      "Description": "A quiz to test your knowledge of more adjectives.",
+      "images": "images/anh.jpg",
+      "questions": [
+        {
+          "id": "20",
+          "Question": "Which of the following is an adjective?",
+          "A": "Dog",
+          "B": "Sing",
+          "C": "Quick",
+          "D": "Slowly",
+          "CorrectAnswer": "C"
+        },
+        {
+          "id": "21",
+          "Question": "Identify the adjective in the sentence: 'The tall man walks quickly.'",
+          "A": "Tall",
+          "B": "Man",
+          "C": "Walks",
+          "D": "Quickly",
+          "CorrectAnswer": "A"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "quizTitle": "Quiz9: More Adverbs",
+      "category": "Adverb",
+      "Description": "A quiz to test your knowledge of more adverbs.",
+      "images": "images/anh.jpg",
+      "questions": [
+        {
+          "id": "22",
+          "Question": "Which of the following is an adverb?",
+          "A": "Book",
+          "B": "Write",
+          "C": "Carefully",
+          "D": "Soft",
+          "CorrectAnswer": "C"
+        },
+        {
+          "id": "23",
+          "Question": "Identify the adverb in the sentence: 'The dog runs fast.'",
+          "A": "Dog",
+          "B": "Runs",
+          "C": "Fast",
+          "D": "The",
+          "CorrectAnswer": "C"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "quizTitle": "Quiz10: More Pronouns",
+      "category": "Pronoun",
+      "Description": "A quiz to test your knowledge of more pronouns.",
+      "images": "images/anh.jpg",
+      "questions": [
+        {
+          "id": "24",
+          "Question": "Which of the following is a pronoun?",
+          "A": "He",
+          "B": "Jump",
+          "C": "Table",
+          "D": "Fast",
+          "CorrectAnswer": "A"
+        },
+        {
+          "id": "25",
+          "Question": "Identify the pronoun in the sentence: 'We are going to the park.'",
+          "A": "Park",
+          "B": "We",
+          "C": "Going",
+          "D": "To",
+          "CorrectAnswer": "B"
+        }
+      ]
+    },
+    {
+      "quizTitle": "nmnbnb",
+      "category": "Pronoun",
+      "Description": "nbnbm",
+      "images": "bnbnm",
+      "questions": [
+        {
+          "id": 1,
+          "Question": "nbm",
+          "A": "nbmbn",
+          "B": "bmnb",
+          "C": "nmb",
+          "D": "nbmn",
+          "CorrectAnswer": "A"
+        },
+        {
+          "id": "q1719021712869_2",
+          "Question": "vxc",
+          "A": "cxv",
+          "B": "cxc",
+          "C": "xc",
+          "D": "cvxc",
+          "CorrectAnswer": "B"
+        },
+        {
+          "id": "q1719478633891_4",
+          "Question": "fgf",
+          "A": "gfg",
+          "B": "fddfg",
+          "C": "dfg",
+          "D": "fgfd",
+          "CorrectAnswer": "C"
+        }
+      ],
+      "id": "b5a9"
+    }
+  ],
+  "quizResults": [
+    {
+      "id": "2f53",
+      "userId": "1",
+      "userName": "luongdz",
+      "quizId": "1",
+      "quizTitle": "Quiz1: Nouns",
+      "score": "100.00",
+      "correctAnswers": 4,
+      "totalQuestions": 4,
+      "date": "2024-06-22T09:40:03.920Z"
+    },
+    {
+      "id": "3af6",
+      "userId": "1",
+      "userName": "luongdz",
+      "quizId": "1",
+      "quizTitle": "Quiz1: Nouns",
+      "score": "75.00",
+      "correctAnswers": 3,
+      "totalQuestions": 4,
+      "date": "2024-06-22T09:40:22.967Z"
+    },
+    {
+      "id": "5fc9",
+      "userId": "a8de",
+      "userName": "ngo",
+      "quizId": "2",
+      "quizTitle": "Quiz2: Verbs",
+      "score": "100.00",
+      "correctAnswers": 3,
+      "totalQuestions": 3,
+      "date": "2024-06-22T09:41:34.513Z"
+    },
+    {
+      "id": "3b06",
+      "userId": "a8de",
+      "userName": "ngo",
+      "quizId": "1",
+      "quizTitle": "Quiz1: Nouns",
+      "score": "100.00",
+      "correctAnswers": 4,
+      "totalQuestions": 4,
+      "date": "2024-06-22T09:41:43.283Z"
+    },
+    {
+      "id": "cb99",
+      "userId": "a8de",
+      "userName": "ngo",
+      "quizId": "1",
+      "quizTitle": "Quiz1: Nouns",
+      "score": "75.00",
+      "correctAnswers": 3,
+      "totalQuestions": 4,
+      "date": "2024-06-22T09:42:06.995Z"
+    },
+    {
+      "id": "60eb",
+      "userId": "2",
+      "userName": "admin",
+      "quizId": "1",
+      "quizTitle": "Quiz1: Nouns",
+      "score": "75.00",
+      "correctAnswers": 3,
+      "totalQuestions": 4,
+      "date": "2024-06-27T08:57:35.264Z"
+    },
+    {
+      "id": "196e",
+      "userId": "1",
+      "userName": "luongdz",
+      "quizId": "2",
+      "quizTitle": "Quiz2: Verbs",
+      "score": "100.00",
+      "correctAnswers": 3,
+      "totalQuestions": 3,
+      "date": "2024-06-27T13:06:31.717Z"
+    },
+    {
+      "id": "4c78",
+      "userId": "93fe",
+      "userName": "luongdz",
+      "quizId": "2",
+      "quizTitle": "Quiz2: Verbs",
+      "score": "100.00",
+      "correctAnswers": 3,
+      "totalQuestions": 3,
+      "date": "2024-06-27T13:08:02.579Z"
+    },
+    {
+      "id": "7571",
+      "userId": "93fe",
+      "userName": "luongdz",
+      "quizId": "1",
+      "quizTitle": "Quiz1: Nouns",
+      "score": "100.00",
+      "correctAnswers": 4,
+      "totalQuestions": 4,
+      "date": "2024-06-27T13:15:34.322Z"
+    },
+    {
+      "id": "d8ec",
+      "userId": "2",
+      "userName": "admin",
+      "quizId": "1",
+      "quizTitle": "Quiz1: Nouns",
+      "score": "100.00",
+      "correctAnswers": 4,
+      "totalQuestions": 4,
+      "date": "2024-07-01T12:44:40.598Z"
+    },
+    {
+      "id": "ac8a",
+      "userId": "c71f",
+      "userName": "007",
+      "quizId": "2",
+      "quizTitle": "Quiz2: Verbs",
+      "score": "100.00",
+      "correctAnswers": 3,
+      "totalQuestions": 3,
+      "date": "2024-07-01T13:18:29.897Z"
+    },
+    {
+      "id": "9326",
+      "userId": "c71f",
+      "userName": "007",
+      "quizId": "1",
+      "quizTitle": "Quiz1: Nouns",
+      "score": "100.00",
+      "correctAnswers": 4,
+      "totalQuestions": 4,
+      "date": "2024-07-01T13:18:38.286Z"
+    },
+    {
+      "id": "634f",
+      "userId": "1",
+      "userName": "luongdz",
+      "quizId": "2",
+      "quizTitle": "Quiz2: Verbs",
+      "score": "100.00",
+      "correctAnswers": 3,
+      "totalQuestions": 3,
+      "date": "2024-07-04T02:02:35.209Z"
+    },
+    {
+      "id": "477f",
+      "userId": "1",
+      "userName": "luongdz",
+      "quizId": "2",
+      "quizTitle": "Quiz2: Verbs",
+      "score": "100.00",
+      "correctAnswers": 3,
+      "totalQuestions": 3,
+      "date": "2024-07-04T03:03:58.382Z"
+    }
+  ]
+}
